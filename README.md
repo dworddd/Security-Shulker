@@ -25,4 +25,5 @@ Discord Server (Turkish)
 -----------
 
 Discord Server Link: https://discord.gg/afF6nakKC6
+
 Discord Sunucu Linki: https://discord.gg/afF6nakKC6
