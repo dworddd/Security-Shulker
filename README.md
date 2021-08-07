@@ -11,4 +11,4 @@ Bu Repo'da public olarak geliştirdiğim hacking araçlarını paylaşacağım
 ENGLISH
 -----------
 
-In this Repo, i will share hacking tool that i coded publicly
+In this Repo, i will share hacking tools that i coded publicly
