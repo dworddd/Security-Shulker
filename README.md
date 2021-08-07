@@ -15,3 +15,14 @@ ENGLISH
 In this Repo, i will share hacking tools that i coded publicly
 
 Note: I will not take responsibility for illegal activities.
+
+
+
+
+
+
+Discord Server (Turkish)
+-----------
+
+Discord Server Link: https://discord.gg/afF6nakKC6
+Discord Sunucu Linki: https://discord.gg/afF6nakKC6
